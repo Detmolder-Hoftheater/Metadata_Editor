@@ -13,8 +13,8 @@ Theatre Tool depends on the javascript framework ExtJS (http://www.sencha.com/pr
 We use icons from (https://www.iconfinder.com, https://icons8.com) for free.
 Installing
 
-Please see our documentation in the wiki section: https://github.com/Detmolder-Hoftheater/TheatreTool_1-Dev/wiki
+Please see our documentation in the wiki section: https://github.com/Detmolder-Hoftheater/Metadata_Editor/wiki
 
 License
 
-Theatre Tool is released to the public under the terms of the GNU GPL v.3 open source license.
+Metadata Editor is released to the public under the terms of the GNU GPL v.3 open source license.
