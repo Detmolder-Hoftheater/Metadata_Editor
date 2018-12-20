@@ -11,6 +11,7 @@ eXist-db (http://www.exist-db.org), in the newest version
 highlight (https://highlightjs.org)
 Theatre Tool depends on the javascript framework ExtJS (http://www.sencha.com/products/extjs/) which is included in parts in our code base. We use ExtJS 6.2.0 in the GPL version.
 We use icons from (https://www.iconfinder.com, https://icons8.com) for free.
+
 Installing
 
 Please see our documentation in the wiki section: https://github.com/Detmolder-Hoftheater/Metadata_Editor/wiki
